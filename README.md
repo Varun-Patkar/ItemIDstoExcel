@@ -1,4 +1,4 @@
-# Item IDs to Excel
+# KCD2 Item IDs to Excel
 
 This folder contains files extracted from the Kingdom Come Deliverance mod available on Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance2/mods/87?tab=description
 
