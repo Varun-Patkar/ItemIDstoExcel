@@ -1,0 +1,97 @@
+====================================================================================================
+================================================Food================================================
+====================================================================================================
+Lethean Water [601f9ff2-0413-40c9-b443-9695aafa71a5]                             Price=1000 AlcoholContent=40 NutritionBenefit=10 VisibilityCoef=2 Type=1 FadeCoef=1 HealthBenefit=0 RefreshBenefit=0 DecayTime=0
+Henry's Cockerel [6a3efa9e-700a-412a-88ee-721d34da98a8]                          Price=700 RefreshBenefit=30 SubType=19 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Artemisia [68853c50-8e91-4644-b914-3035715896cd]                         Price=700 SubType=22 RefreshBenefit=15 NutritionBenefit=3 AlcoholContent=3 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Henry's Bowman's brew [f613838b-0a41-4dee-a1cf-41cb753b5eb6]                     Price=700 SubType=27 RefreshBenefit=5 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Buck's Blood [9ca97b1a-579b-44f2-8624-46d081b9001a]                      Price=700 SubType=25 RefreshBenefit=6 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Quickfinger potion [a881243c-ea11-4d4b-a7e4-0b2105c79e28]                Price=700 SubType=26 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Fox [ecd5ec75-6483-4376-a7ff-83be58847f11]                               Price=700 SubType=21 RefreshBenefit=8 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Hair o' the Dog  [18b29b5b-a1a2-4b51-9540-b156745d1bca]                  Price=700 SubType=20 RefreshBenefit=10 Type=1 FadeCoef=1 HealthBenefit=0 NutritionBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Embrocation [9536b229-2454-48cd-83a2-2f6292e18044]                       Price=700 SubType=16 RefreshBenefit=7 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Aesop [68cc138a-67d8-4305-8140-aef772fb4d66]                             Price=700 SubType=10 RefreshBenefit=7 AlcoholContent=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Henry's Painkiller brew  [b6456b1c-ba84-4b3a-ba5b-47c388d3befb]                  Price=700 SubType=17 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Nighthawk [0422b7ef-1554-4c9b-b7a0-037be091094f]                         Price=700 RefreshBenefit=15 SubType=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Aqua Vitalis [dec304dc-47f4-4bb2-8e4c-1c0a30203b6e]                      Price=700 SubType=12 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Marigold Decoction [c7022225-70b4-4bde-afe0-1d42763a2ecd]                Price=600 HealthBenefit=75 SubType=24 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 AlcoholContent=0 DecayTime=0
+Strong Cockerel [16aad4a8-c992-4230-8175-f3ec4ef4d4f8]                           Price=550 RefreshBenefit=20 SubType=19 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Saviour Schnapps [b7e25984-1dce-4129-b857-dd61821503c1]                  Price=550 HealthBenefit=30 SubType=8 AlcoholContent=4 Type=1 FadeCoef=1 RefreshBenefit=0 NutritionBenefit=0 DecayTime=0
+Strong Artemisia [301cc8ff-f3f5-4c39-b27b-129bb58792d0]                          Price=550 SubType=22 RefreshBenefit=10 AlcoholContent=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Strong Bowman's brew [e843c734-f28f-4263-9033-f6f40fe65a85]                      Price=550 SubType=27 RefreshBenefit=5 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Buck's Blood [c016f34b-be76-47c7-9f96-caec61afa238]                       Price=550 SubType=25 RefreshBenefit=6 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Quickfinger potion [cc2060b0-b588-4a54-9a73-293a8a4f2ff6]                 Price=550 SubType=26 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Marigold Decoction [b4e0af8c-3ed7-40ed-8537-7772489832c8]                 Price=500 HealthBenefit=50 SubType=24 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 AlcoholContent=0 DecayTime=0
+Strong Fox [2907cc32-ff8e-4a3c-b357-8fe434341874]                                Price=550 SubType=21 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Hair o' the Dog  [6a4858db-2c3e-442d-8bcd-4c79d855e43a]                   Price=550 SubType=20 RefreshBenefit=5 Type=1 FadeCoef=1 HealthBenefit=0 NutritionBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Embrocation [0e6f3e1b-961a-447e-ba58-17901f70896f]                        Price=550 SubType=16 RefreshBenefit=5 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Painkiller brew [10134a72-9c08-4bee-8352-208cdba64534]                    Price=550 SubType=17 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Aesop [0bf30154-1954-427d-ab92-6fa0048b0e27]                              Price=550 SubType=10 RefreshBenefit=5 AlcoholContent=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Strong Aqua Vitalis [0da553ab-9df7-4ed4-92b8-a9c9e42566a5]                       Price=550 SubType=12 RefreshBenefit=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Nighthawk [555739da-ec53-49a0-a465-651e56ff1e96]                          Price=550 RefreshBenefit=10 SubType=4 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Chamomile brew [12174dd5-16bb-4e3c-9a3e-f66d851994e9]                    Price=500 RefreshBenefit=20 SubType=18 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Cockerel [d4d378ef-0fb1-4030-880e-6b2fea8a394c]                                  Price=450 RefreshBenefit=20 SubType=19 NutritionBenefit=5 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Artemisia [2a17517c-e5f3-4c9e-ad45-b9e4b171b452]                                 Price=450 SubType=22 RefreshBenefit=10 NutritionBenefit=5 AlcoholContent=4 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Buck's blood [be58eb36-bd45-45d9-8a38-5bd07ceb4258]                              Price=450 SubType=25 RefreshBenefit=6 NutritionBenefit=5 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Bowman's brew [980ce52a-866c-4212-a80a-dfc6b53f5c40]                             Price=450 SubType=27 NutritionBenefit=5 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Quickfinger potion [e730436c-53f6-4041-bdd1-3f4826f15975]                        Price=450 SubType=26 NutritionBenefit=5 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Fox [4f60ae85-28a3-45c1-9040-e11ed56edc87]                                       Price=450 SubType=21 NutritionBenefit=5 RefreshBenefit=2 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Painkiller brew [b53dc1c8-29c9-4002-878d-6b75fc10f217]                           Price=450 SubType=17 NutritionBenefit=5 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Embrocation [5cd3c6f7-ddb8-4475-870d-895d604c1d98]                               Price=450 SubType=16 NutritionBenefit=5 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Aesop [db3b9089-3985-44fb-a2f4-d662321b6d4a]                                     Price=450 SubType=10 AlcoholContent=6 NutritionBenefit=5 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Hair o' the Dog  [a3d9df4f-c502-473d-8010-9f1204e1b124]                          Price=450 SubType=20 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 NutritionBenefit=0 AlcoholContent=0 DecayTime=0
+Aqua Vitalis [ade54ad7-c400-4b19-a3fe-d34bd1fc3b30]                              Price=450 SubType=12 NutritionBenefit=5 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Nighthawk [122b7fbe-3ce3-4c4a-b692-cedfa355e7b6]                                 Price=450 RefreshBenefit=5 NutritionBenefit=5 SubType=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Henry's Digestive Potion [e3023c6f-1293-49f1-8cd4-21cac3e3f604]                  Price=500 SubType=23 RefreshBenefit=7 ShortTermNutritionBenefitRatio=1 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0 NutritionBenefit=-30
+Marigold decoction [761f9e84-e07b-4b4b-9425-7681898abccd]                        Price=400 HealthBenefit=35 SubType=24 NutritionBenefit=5 RefreshBenefit=4 VisibilityCoef=2 Type=1 FadeCoef=1 AlcoholContent=0 DecayTime=0
+Fever tonicum [f57b55ad-b964-4555-b564-726ab821670e]                             Price=400 NutritionBenefit=10 HealthBenefit=4 AlcoholContent=4 VisibilityCoef=2 Type=1 FadeCoef=1 RefreshBenefit=0 DecayTime=0
+Strong Saviour Schnapps [3d4a8904-98f1-464a-9b3e-d3926b835804]                   Price=400 HealthBenefit=20 SubType=8 AlcoholContent=4 VisibilityCoef=2 Type=1 FadeCoef=1 RefreshBenefit=0 NutritionBenefit=0 DecayTime=0
+Weak Artemisia [07016792-531f-4ef2-8c3c-ea7566326c04]                            Price=350 SubType=22 NutritionBenefit=7 RefreshBenefit=5 AlcoholContent=5 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Weak Buck's Blood [92c829ca-41f6-40a7-b8d9-aac5159c7a89]                         Price=350 SubType=25 NutritionBenefit=7 RefreshBenefit=6 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Bowman's Brew [3157d51d-7461-4fdc-9601-93bd5ed42156]                        Price=350 SubType=27 NutritionBenefit=7 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Quickfinger potion [ab25a50a-7836-47a9-acb2-5fd93684b8c5]                   Price=350 SubType=26 NutritionBenefit=7 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Strong Chamomile brew [12c30ac1-f9fc-4b61-a337-b3eb98779ca6]                     Price=350 SubType=18 RefreshBenefit=15 NutritionBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Cockerel [c40dc516-9886-4245-8a8b-2cbb16da918d]                             Price=350 SubType=19 RefreshBenefit=10 NutritionBenefit=7 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Painkiller brew  [09834ed5-010e-438b-8ac0-cf60529ff383]                     Price=350 SubType=17 NutritionBenefit=7 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Fox [34d9f446-e5a7-4af4-858a-e96473de814f]                                  Price=350 SubType=21 NutritionBenefit=7 Type=1 FadeCoef=1 HealthBenefit=0 RefreshBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Embrocation [567fc1b1-1424-4784-9da8-5104e2e7354d]                          Price=350 SubType=16 NutritionBenefit=7 RefreshBenefit=1 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Aesop [73ff1fde-ec8b-41e9-95e3-b5938c715bf1]                                Price=350 SubType=10 NutritionBenefit=7 AlcoholContent=4 RefreshBenefit=2 Type=1 FadeCoef=1 HealthBenefit=0 DecayTime=0
+Weak Aqua Vitalis [850d28d9-9d0a-4b2e-9feb-e6c48c5f1aad]                         Price=350 SubType=12 NutritionBenefit=7 RefreshBenefit=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Hair o' the Dog  [7a1e8447-4449-473b-aac9-63f7a324fa0b]                     Price=350 SubType=20 Type=1 FadeCoef=1 HealthBenefit=0 RefreshBenefit=0 NutritionBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Nighthawk [6b955a9b-d8de-492c-a53e-a052fab4ff0a]                            Price=350 NutritionBenefit=7 RefreshBenefit=5 SubType=4 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Marigold decoction [b38c34b7-6016-4f64-9ba2-65e1ce31d4a1]                   Price=300 SubType=24 HealthBenefit=20 NutritionBenefit=7 RefreshBenefit=4 Type=1 FadeCoef=1 AlcoholContent=0 DecayTime=0
+Saviour Schnapps [d273bcad-6b58-4eae-9d2a-800c40176cfd]                          Price=300 HealthBenefit=10 SubType=8 AlcoholContent=5 Type=1 FadeCoef=1 RefreshBenefit=0 NutritionBenefit=0 DecayTime=0
+Strong Digestive Potion [5dd0afa5-3c76-475c-9775-6ed5c69132fd]                   Price=350 SubType=23 RefreshBenefit=5 ShortTermNutritionBenefitRatio=1 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0 NutritionBenefit=-20
+Chamomile brew [ca4bb7aa-12a9-45d5-a589-de2a2458fc4d]                            Price=250 SubType=18 RefreshBenefit=10 NutritionBenefit=5 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Saviour Schnapps [928463d9-e21a-4f7c-b5d3-8378ed375cd1]                     Price=250 SubType=8 AlcoholContent=6 Type=1 FadeCoef=1 HealthBenefit=0 RefreshBenefit=0 NutritionBenefit=0 DecayTime=0
+Digestive Potion [2f566495-fbee-4b58-9abb-6a5287b2e681]                          Price=250 SubType=23 RefreshBenefit=3 ShortTermNutritionBenefitRatio=1 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0 NutritionBenefit=-20
+Weak Chamomile Brew [5060809f-feec-4c39-b7f4-1cea5e55ab70]                       Price=200 SubType=18 NutritionBenefit=7 RefreshBenefit=5 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0
+Weak Digestive Potion [8b713d0c-9a04-4354-a53f-ffd384057fa6]                     Price=200 SubType=23 RefreshBenefit=3 Type=1 FadeCoef=1 HealthBenefit=0 AlcoholContent=0 DecayTime=0 NutritionBenefit=-20
+Unknown potion [006ec8d6-1ce1-4e90-8267-7c349812ddcd]                            Price=2 NutritionBenefit=1 Type=1 HealthBenefit=0 RefreshBenefit=0 AlcoholContent=0 DecayTime=0
+A suspicious bag [27144e47-00aa-468e-a81b-49cb3b248b07]                          Type=3 Price=1 HealthBenefit=0 RefreshBenefit=0 NutritionBenefit=0 ShortTermNutritionBenefitRatio=0 AlcoholContent=0 DecayTime=0
+A suspicious bag [ee4d5b06-0a7e-4073-969b-b11131e97fef]                          Type=3 Price=1 HealthBenefit=0 RefreshBenefit=0 NutritionBenefit=0 ShortTermNutritionBenefitRatio=0 AlcoholContent=0 DecayTime=0
+Kuba's potion [3a6936e1-cb05-4c4c-b6f6-379322c13c93]                             AlcoholContent=20 SubType=5 Type=3 Price=1 DecayTime=0 RefreshBenefit=-20 NutritionBenefit=-20 HealthBenefit=-110
+Kuba's potion [9872a67f-e235-4641-913a-737681f52870]                             AlcoholContent=20 SubType=5 Type=3 Price=1 DecayTime=0 RefreshBenefit=-20 NutritionBenefit=-20 HealthBenefit=-110
+Kuba's potion [b13717cf-c4d0-4e79-9f56-cb0fecc26eaf]                             AlcoholContent=20 SubType=5 Type=3 Price=1 DecayTime=0 RefreshBenefit=-20 NutritionBenefit=-20 HealthBenefit=-110
+====================================================================================================
+==========================================CraftingMaterial==========================================
+====================================================================================================
+Sulphur [0513eeae-05a8-4ca7-8719-443cb0d906d5]                                   Price=85 Type=2 VisibilityCoef=1
+Saltpetre [8cf956d4-39d6-4e9d-9010-95f8f2772ad9]                                 Price=72 Type=2 VisibilityCoef=1
+====================================================================================================
+===============================================Poison===============================================
+====================================================================================================
+Henry's Lullaby potion [c4755706-216b-447e-ba4e-a7e51a7c04d1]                    Price=600 WeaponChargeCount=100 AmmoApplyCount=50 FadeCoef=1 VisibilityCoef=1
+Henry's Dollmaker poison [c4109e90-e359-4803-b78e-20ce73be34e6]                  Price=600 WeaponChargeCount=100 AmmoApplyCount=40 FadeCoef=1 VisibilityCoef=1
+Henry's Bane poison [de4fa13c-def3-4b1f-b4f9-eb8a21f0adb3]                       Price=700 WeaponChargeCount=16 AmmoApplyCount=8 FadeCoef=1 VisibilityCoef=1
+Strong Dollmaker poison [633bcf78-58fa-4cb0-a229-876c61d61389]                   Price=450 WeaponChargeCount=75 AmmoApplyCount=30 FadeCoef=1 VisibilityCoef=1
+Strong Lullaby potion [6ef253ae-ec6d-4755-a194-9b763e361b42]                     Price=450 WeaponChargeCount=75 AmmoApplyCount=30 FadeCoef=1 VisibilityCoef=1
+Strong Bane Poison [272357ec-8722-4b1d-9ee7-03f29ab465ef]                        Price=500 WeaponChargeCount=12 AmmoApplyCount=4 FadeCoef=1 VisibilityCoef=1
+Lullaby potion [299754d2-8e74-4f95-8919-b4cfc42d3285]                            Price=350 WeaponChargeCount=50 AmmoApplyCount=20 FadeCoef=1 VisibilityCoef=1
+Dollmaker poison [b86a7329-ac5b-4a85-b77f-b226b938310a]                          Price=350 WeaponChargeCount=50 AmmoApplyCount=20 FadeCoef=1 VisibilityCoef=1
+Bane poison [fed2dff1-eefe-41a7-93a9-1c2a3801774c]                               Price=400 WeaponChargeCount=8 AmmoApplyCount=4 FadeCoef=1 VisibilityCoef=1
+Aranka's potion [4c3e263a-3aaa-4453-9910-325c300c0ae2]                           WeaponChargeCount=50 Price=42 AmmoApplyCount=20 VisibilityCoef=1
+Aranka's concoction [d7647722-61db-4250-bd1b-0091be96a16e]                       WeaponChargeCount=50 Price=42 AmmoApplyCount=20 VisibilityCoef=1
+====================================================================================================
+=======================================dumped by @chymchykuie=======================================
+====================================================================================================
